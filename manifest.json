@@ -1,0 +1,38 @@
+{
+  "name": "Mbaksyahdu",
+  "short_name": "Mbaksyahdu",
+  "start_url": "https://www.mbaksyahdu.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Cerita ilmu.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-KsZdVQpvVAg/XaGz1VlGbiI/AAAAAAAABIw/BTNB-YvDv9oiRIza1FaPjGgauYLOxgwnwCLcBGAsYHQ/s48/mbak%2Bsyahdu%2Bcopy.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-KsZdVQpvVAg/XaGz1VlGbiI/AAAAAAAABIw/BTNB-YvDv9oiRIza1FaPjGgauYLOxgwnwCLcBGAsYHQ/s72/mbak%2Bsyahdu%2Bcopy.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-KsZdVQpvVAg/XaGz1VlGbiI/AAAAAAAABIw/BTNB-YvDv9oiRIza1FaPjGgauYLOxgwnwCLcBGAsYHQ/s96/mbak%2Bsyahdu%2Bcopy.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-KsZdVQpvVAg/XaGz1VlGbiI/AAAAAAAABIw/BTNB-YvDv9oiRIza1FaPjGgauYLOxgwnwCLcBGAsYHQ/s144/mbak%2Bsyahdu%2Bcopy.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-KsZdVQpvVAg/XaGz1VlGbiI/AAAAAAAABIw/BTNB-YvDv9oiRIza1FaPjGgauYLOxgwnwCLcBGAsYHQ/s168/mbak%2Bsyahdu%2Bcopy.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-KsZdVQpvVAg/XaGz1VlGbiI/AAAAAAAABIw/BTNB-YvDv9oiRIza1FaPjGgauYLOxgwnwCLcBGAsYHQ/s192/mbak%2Bsyahdu%2Bcopy.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-KsZdVQpvVAg/XaGz1VlGbiI/AAAAAAAABIw/BTNB-YvDv9oiRIza1FaPjGgauYLOxgwnwCLcBGAsYHQ/s512/mbak%2Bsyahdu%2Bcopy.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
